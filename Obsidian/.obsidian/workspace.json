@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "680fd4056e80e6b4",
+            "id": "091af40592f7a63c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/一团乱/意识/日记/2025年02月04日.md",
+                "file": "_drafts/一团乱/意识/日记/2025年05月31日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025年02月04日"
+              "title": "2025年05月31日"
+            }
+          },
+          {
+            "id": "c1e0f0ede2daf168",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "_drafts/一团乱/Excalidraw/随便画2025-05-31 07.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "随便画2025-05-31 07.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#情绪",
+                "query": "tag:#行动盒",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -69,7 +82,7 @@
                 "sortOrder": "byModifiedTimeReverse"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           }
         ]
@@ -120,27 +133,12 @@
         "dimension": 67.02619414483821,
         "children": [
           {
-            "id": "0ad8abf5953eb82f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "_drafts/一团乱/意识/日记/2025年02月04日.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "2025年02月04日 的大纲"
-            }
-          },
-          {
             "id": "ef550e3c763f9d13",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_drafts/一团乱/意识/日记/2025年02月04日.md",
+                "file": "_drafts/一团乱/Excalidraw/随便画2025-05-31 07.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -192,12 +190,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9656268048034741,
+                  "scale": 1.3537922659686528,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2025年02月04日 的关系图"
+              "title": "随便画2025-05-31 07.excalidraw 的关系图"
             }
           },
           {
@@ -206,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/一团乱/Untitled.md",
+                "file": "_drafts/一团乱/意识/日记/2025年05月05日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +214,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for 2025年05月05日"
             }
           },
           {
@@ -225,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/一团乱/Untitled.md",
+                "file": "_drafts/一团乱/意识/日记/2025年05月05日.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from 2025年05月05日"
             }
           },
           {
@@ -257,14 +255,28 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "45c198c4f1838338",
         "type": "tabs",
         "dimension": 32.973805855161785,
         "children": [
+          {
+            "id": "0ad8abf5953eb82f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_drafts/一团乱/Excalidraw/随便画2025-05-31 07.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "随便画2025-05-31 07.excalidraw 的大纲"
+            }
+          },
           {
             "id": "780b9c7fe8b51951",
             "type": "leaf",
@@ -275,7 +287,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -292,7 +304,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 496.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,44 +322,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "680fd4056e80e6b4",
+  "active": "c1e0f0ede2daf168",
   "lastOpenFiles": [
-    "_drafts/附件/模板/日记模板.md",
-    "_drafts/一团乱/意识/日记/2025年02月04日.md",
-    "_drafts/一团乱/日记提示词.md",
-    "_drafts/一团乱/品质表.md",
-    "_drafts/一团乱/《语言学教程》的整体架构.md",
-    "_drafts/一团乱/未命名 1.md",
-    "_drafts/一团乱/未命名 6.md",
-    "_drafts/一团乱/MindMap/Board/时间分类.md",
-    "_drafts/一团乱/MindMap/Board/2024年泰迪杯数据挖掘.md",
-    "_posts/2024-5-3-choice-and-effort.md",
-    "_posts/2024-5-3-elegant.md",
-    "_posts/2024-5-3-bid-farewell.md",
-    "_drafts/一团乱/MindMap/Board/搭建图像文本检索模型相关思路.md",
-    "_drafts/一团乱/MindMap/Board/要事评判.md",
-    "_drafts/一团乱/Knowledge/杂物箱/Learn Come Over to My Place at VOA.md",
-    "_drafts/一团乱/Knowledge/杂物箱/How About This at VOA.md",
-    "_drafts/一团乱/Knowledge/杂物箱/Function 1 - hello world on Codewars.md",
-    "_drafts/一团乱/Knowledge/杂物箱/Developing fluency at Busuu.md",
-    "_drafts/一团乱/Knowledge/杂物箱/Comparing people at Busuu.md",
-    "_drafts/一团乱/Knowledge/杂物箱/Describing personality at Busuu.md",
-    "_drafts/一团乱/Knowledge/杂物箱/Codewars Grasshopper - Summation.md",
-    "_drafts/一团乱/Knowledge/杂物箱/Codewars Convert boolean values to strings 'Yes' or 'No'.md",
-    "_drafts/一团乱/Knowledge/杂物箱/Busuu A2 描述关系.md",
-    "_drafts/一团乱/Knowledge/杂物箱/Checkpoint the Chapter 3 A2 on Busuu.md",
-    "_drafts/一团乱/Knowledge/杂物箱/Busuu A2 describe different personality.md",
-    "_drafts/一团乱/Knowledge/杂物箱/Busuu A2 3 Know a person's family.md",
+    "Excalidraw/Scripts/Downloaded/Scribble Helper.svg",
+    "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
+    "_drafts/一团乱/意识/日记/2025年05月31日.md",
+    "_drafts/一团乱/Excalidraw/随便画2025-05-31 07.excalidraw.md",
+    "_drafts/一团乱/意识/日记/2025年05月30日.md",
+    "_drafts/一团乱/意识/日记/2025年05月27日.md",
+    "_drafts/一团乱/意识/日记/2025年05月26日.md",
+    "_drafts/一团乱/Excalidraw/随便画2025-05-30 20.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.svg",
+    "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.md",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
+    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
+    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.svg",
+    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "_drafts/一团乱/Untitled.md",
+    "_drafts/一团乱/意识/日记/2025年05月25日.md",
+    "_drafts/一团乱/意识/日记/2025年03月09日.md",
+    "_drafts/一团乱/意识/日记/2025年04月10日.md",
+    "_drafts/一团乱/意识/日记/2025年04月13日.md",
+    "_drafts/一团乱/意识/日记/2025年04月27日.md",
+    "_drafts/一团乱/意识/日记/2025年05月05日.md",
+    "_drafts/一团乱/意识/日记/2025年05月11日.md",
+    "_drafts/一团乱/意识/日记/2025年05月13日.md",
+    "_drafts/一团乱/意识/日记/2025年05月17日.md",
+    "_drafts/一团乱/意识/日记/2025年05月20日.md",
+    "_drafts/一团乱/意识/日记/2025年05月21日.md",
+    "_drafts/一团乱/意识/日记/2025年05月08日.md",
     "_drafts/附件/03-如何设置标签体系，Obsidian新手入门系列 (利用层级标签组织笔记系统)PT3M26.82S.webp",
     "_drafts/附件/03-如何设置标签体系，Obsidian新手入门系列 (利用层级标签组织笔记系统)PT2M18.038S.webp",
     "_drafts/附件/03-如何设置标签体系，Obsidian新手入门系列 (利用层级标签组织笔记系统)PT1M34.699S.webp",
     "_drafts/附件/03-如何设置标签体系，Obsidian新手入门系列 (利用层级标签组织笔记系统)PT1M15.679S.webp",
     "_drafts/附件/【STN快报第七季48】这次蒂法用人格征服了我PT16.027S.webp",
-    "_drafts/附件/【官方 MV】Never Gonna Give You Up - Rick AstleyPT1M15.868S.webp",
-    "_drafts/附件/img/项目协作.svg",
-    "_drafts/附件/img/天文观察.svg",
-    "_drafts/附件/img/数据归档2.5D.svg",
-    "_drafts/附件/img/打电话.svg",
     "_drafts/一团乱/MindMap/Xmind/深度思考的方法论.xmind",
     "_drafts/一团乱/MindMap/FreePlane",
     "_drafts/一团乱/MindMap/FreePlant",
@@ -355,9 +370,6 @@
     "_drafts/一团乱/MindMap/Xmind/个性化的高校执行协议.xmind",
     "Knowledge/CS/Java笔记",
     "Knowledge/CS",
-    "Knowledge",
-    "一团乱/意识/日记",
-    "一团乱/意识",
     "未命名.canvas",
     "一团乱/Knowledge/CS/Java笔记/贪吃蛇制作游戏内容思路.canvas",
     "一团乱/意识/Todo/计划.canvas",
