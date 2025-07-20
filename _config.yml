@@ -69,10 +69,10 @@ theme_mode: # [light|dark]
 # 将被添加到所有以 '/' 开头的图片（站点头像和帖子图片）路径中
 #
 # 例如 'https://cdn.com' 
-img_cdn: ''
+img_cdn: 'https://raw.githubusercontent.com/JayChou404/JayChou404.github.io/refs/heads/master/assets'
 
 # 侧边栏上的头像，支持本地或跨域资源
-avatar: 'https://github.com/JayChou404/JayChou404.github.io/blob/master/assets/img/logo.png' 
+avatar: '/img/logo.png' 
 
 # 是否在帖子中全局启用目录（TOC）
 toc: true
