@@ -8,9 +8,9 @@ categories:
 date: 2024-05-13
 ---
 
-参考项目：[Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP)
+**参考项目：**[Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP)
 
-项目作品：[2024泰迪杯数据挖掘中比赛的论文与代码等资源。 (github.com)](https://github.com/JayChou404/DataMning-Taidibei-B-2024)
+**项目作品：**[2024泰迪杯数据挖掘中比赛的论文与代码等资源。 (github.com)](https://github.com/JayChou404/DataMning-Taidibei-B-2024)
 
 ## 简介
 
@@ -26,7 +26,7 @@ date: 2024-05-13
 > ![image.png](https://s2.loli.net/2024/05/13/HqsU1RPaWzXrl6m.png)
 {: .prompt-info }
 
-## 参考文献
+## 参考
 
 - [多模态表征—CLIP及中文版Chinese-CLIP：理论讲解、代码微调与论文阅读 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/690361706)
 - [OFA-Sys/Chinese-CLIP: Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation. (github.com)](https://github.com/OFA-Sys/Chinese-CLIP)
