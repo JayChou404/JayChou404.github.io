@@ -1,4 +1,0 @@
-## 计划表
-
-<table><thead><tr><th>目标</th><th>学习内容</th><th>学习时间</th></tr></thead><tbody><tr><td>基础知识</td><td>Java 基础语法、面向对象编程、数据类型、循环、条件语句</td><td>1 个月</td></tr><tr><td>数据结构和算法</td><td>排序算法、栈和队列、树、图</td><td>2 个月</td></tr><tr><td>Web 开发</td><td>HTML、CSS、JavaScript、Servlet、JSP、Spring 框架</td><td>2 个月</td></tr><tr><td>数据库</td><td>SQL 语言、MySQL 数据库</td><td>1 个月</td></tr><tr><td>面向对象设计和编程</td><td>设计模式、UML 图</td><td>2 个月</td></tr><tr><td>多线程编程和网络编程</td><td>线程、并发、socket 编程</td><td>1 个月</td></tr><tr><td>容器和框架</td><td>Tomcat、Jenkins、Maven、Hibernate</td><td>1 个月</td></tr><tr><td>高级 Java 编程和优化</td><td>JVM 原理、反射、注解、Lambda 表达式、性能调优</td><td>2 个月</td></tr><tr><td>代码版本控制和团队协作</td><td>Git、SVN、团队协作工具</td><td>1 个月</td></tr><tr><td>实践项目</td><td>开发一个完整的 Java 项目，如 Java Web 应用、后台管理系统</td><td>3 个月或以上</td></tr></tbody></table>
-请问github有哪些学习 java 的好项目, 这些项目需要从基础开始将, 最好是面向java 工作, java 工程师的
