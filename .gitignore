@@ -24,3 +24,6 @@ Obsidian/_drafts
 Obsidian/.obsidian
 Obsidian/.trash
 admin
+vault/.obsidian/
+vault/.trash/
+vault/**/.DS_Store

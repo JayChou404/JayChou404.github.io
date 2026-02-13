@@ -48,8 +48,14 @@ jobs:
           ruby-version: 3   # reads from a '.ruby-version' or '.tools-version' file if 'ruby-version' is omitted
           bundler-cache: true
 
-      - name: Say Hello
-        run: echo "Hello! I am learning GitHub Actions."
+      - name: Validate publishing inputs
+        run: bash tools/publishing/validate.sh
+
+      - name: Export publishable notes
+        run: bash tools/publishing/export.sh
+
+      - name: Sync exported content to Jekyll dirs
+        run: bash tools/publishing/sync-to-jekyll.sh
 
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
