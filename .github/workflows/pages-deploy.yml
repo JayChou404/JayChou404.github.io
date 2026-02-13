@@ -11,6 +11,9 @@ on:
       - .gitignore
       - README.md
       - LICENSE
+      - Obsidian/**
+      - Obsidian.zip
+
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
